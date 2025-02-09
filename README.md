@@ -18,4 +18,5 @@ To answer our problem statement “How can we identify malicious phishing links 
 9.	Domain title similarity
 10.	Presence of a submit button
 11.	Responsivity of the webpage
+    
 These features allowed us to create a reliable mechanism to detect phishing URLs.
